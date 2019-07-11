@@ -1,4 +1,4 @@
 name: sagedays-cython-tutorial
 dependencies:
-	- python
-	- cython
+    - python
+    - cython
